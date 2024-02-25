@@ -1,6 +1,9 @@
 # til
 📝 Today I Learned
 
+
+### February 25, 2024 
+- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/) 
 ### February 24, 2024 
 - [Advanced React component composition](https://frontendmastery.com/posts/advanced-react-component-composition-guide/) 
 - [RTK Query: a better way to Redux — Adapptor - Perth App Developers](https://www.adapptor.com.au/blog/rtk-query-a-better-way-to-redux) 
