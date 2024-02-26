@@ -2,6 +2,9 @@
 📝 Today I Learned
 
 
+
+### February 26, 2024 
+- [Learn CSS Layout](https://learnlayout.com/column) 
 ### February 25, 2024 
 - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/) 
 - [Understanding typography - Material Design](https://m2.material.io/design/typography/understanding-typography.html#type-classification) 
