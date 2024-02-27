@@ -3,6 +3,9 @@
 
 
 
+
+### February 27, 2024 
+- [Emacs: Dead and Loving It - (think)](https://batsov.com/articles/2024/02/26/emacs-dead-and-loving-it/) 
 ### February 26, 2024 
 - [Learn CSS Layout](https://learnlayout.com/column) 
 ### February 25, 2024 
