@@ -4,6 +4,9 @@
 
 
 
+
+### February 28, 2024 
+- [Everything about null in JavaScript](https://dmitripavlutin.com/javascript-null/) 
 ### February 27, 2024 
 - [Emacs: Dead and Loving It - (think)](https://batsov.com/articles/2024/02/26/emacs-dead-and-loving-it/) 
 ### February 26, 2024 
