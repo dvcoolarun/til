@@ -5,6 +5,9 @@
 
 
 
+
+### February 29, 2024 
+- [sudheerj/reactjs-interview-questions: List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file#why-should-we-not-update-the-state-directly) 
 ### February 28, 2024 
 - [Everything about null in JavaScript](https://dmitripavlutin.com/javascript-null/) 
 ### February 27, 2024 
