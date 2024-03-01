@@ -9,6 +9,7 @@
 
 ### March 1, 2024 
 - [A beginner-friendly introduction to Containers, VMs and Docker](https://www.preethikasireddy.com/post/a-beginner-friendly-introduction-to-containers-vms-and-docker) 
+- [Layout-isolated components](https://web.archive.org/web/20201024040746/https://visly.app/blog/layout-isolated-components) 
 ### February 29, 2024 
 - [sudheerj/reactjs-interview-questions: List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file#why-should-we-not-update-the-state-directly) 
 ### February 28, 2024 
