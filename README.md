@@ -7,6 +7,9 @@
 
 
 
+
+### March 2, 2024 
+- [Learn CSS Layout The Pedantic Way](https://book.mixu.net/css/) 
 ### March 1, 2024 
 - [A beginner-friendly introduction to Containers, VMs and Docker](https://www.preethikasireddy.com/post/a-beginner-friendly-introduction-to-containers-vms-and-docker) 
 - [Layout-isolated components](https://web.archive.org/web/20201024040746/https://visly.app/blog/layout-isolated-components) 
