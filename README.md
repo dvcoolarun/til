@@ -8,6 +8,9 @@
 
 
 
+
+### March 3, 2024 
+- [How to Make Yourself Into a Learning Machine](https://every.to/superorganizers/how-to-build-a-learning-machine-299655) 
 ### March 2, 2024 
 - [Learn CSS Layout The Pedantic Way](https://book.mixu.net/css/) 
 ### March 1, 2024 
