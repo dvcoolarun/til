@@ -9,6 +9,9 @@
 
 
 
+
+### March 4, 2024 
+- [Hard is Not Defensible — Alex Crompton](https://www.alexcrompton.com/blog/2017/05/26/hard-is-not-defensible) 
 ### March 3, 2024 
 - [How to Make Yourself Into a Learning Machine](https://every.to/superorganizers/how-to-build-a-learning-machine-299655) 
 ### March 2, 2024 
