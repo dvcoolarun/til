@@ -15,6 +15,7 @@
 - [The Uphill Battle of Memoization | TkDodo's blog](https://tkdodo.eu/blog/the-uphill-battle-of-memoization) 
 - [@chrlschn - Interviews in the Age of AI: Ditch Leetcode - Try Code Reviews Instead](https://chrlschn.dev/blog/2023/07/interviews-age-of-ai-ditch-leetcode-try-code-reviews-instead/) 
 - [Why time seems to pass faster as we age - Inverted Passion](https://invertedpassion.com/why-time-seems-to-pass-faster-as-we-age/) 
+- [Cranking The Learning Machine Up To 11](https://alchemy.substack.com/p/cranking-the-learning-machine-up) 
 ### March 4, 2024 
 - [Hard is Not Defensible — Alex Crompton](https://www.alexcrompton.com/blog/2017/05/26/hard-is-not-defensible) 
 - [Here’s why enterprise IT is so complex - The Architect Elevator](https://architectelevator.com/architecture/it-complexity/) 
