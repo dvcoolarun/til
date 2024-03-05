@@ -10,6 +10,9 @@
 
 
 
+
+### March 5, 2024 
+- [The Uphill Battle of Memoization | TkDodo's blog](https://tkdodo.eu/blog/the-uphill-battle-of-memoization) 
 ### March 4, 2024 
 - [Hard is Not Defensible — Alex Crompton](https://www.alexcrompton.com/blog/2017/05/26/hard-is-not-defensible) 
 - [Here’s why enterprise IT is so complex - The Architect Elevator](https://architectelevator.com/architecture/it-complexity/) 
