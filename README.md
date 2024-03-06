@@ -11,6 +11,9 @@
 
 
 
+
+### March 6, 2024 
+- [Advice to Young People, The Lies I Tell Myself - jxnl.co](https://jxnl.github.io/blog/writing/2024/06/01/advice-to-young-people/#self-worth) 
 ### March 5, 2024 
 - [The Uphill Battle of Memoization | TkDodo's blog](https://tkdodo.eu/blog/the-uphill-battle-of-memoization) 
 - [@chrlschn - Interviews in the Age of AI: Ditch Leetcode - Try Code Reviews Instead](https://chrlschn.dev/blog/2023/07/interviews-age-of-ai-ditch-leetcode-try-code-reviews-instead/) 
