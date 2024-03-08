@@ -12,6 +12,9 @@
 
 
 
+
+### March 8, 2024 
+- [People expect technology to suck – kbps](https://www.kilobitspersecond.com/2020/09/22/people-expect-technology-to-suck/) 
 ### March 6, 2024 
 - [Advice to Young People, The Lies I Tell Myself - jxnl.co](https://jxnl.github.io/blog/writing/2024/06/01/advice-to-young-people/#self-worth) 
 ### March 5, 2024 
