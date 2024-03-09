@@ -16,6 +16,7 @@
 
 ### March 9, 2024 
 - [Impostor Syndrome vs the Dunning-Kruger Effect | Raptori](https://raptori.dev/blog/impostor-syndrome-vs-the-dunning-kruger-effect) 
+- [Get Started With Typescript in 2019](https://robertcooper.me/post/get-started-with-typescript-in-2019) 
 ### March 8, 2024 
 - [People expect technology to suck – kbps](https://www.kilobitspersecond.com/2020/09/22/people-expect-technology-to-suck/) 
 - [Bootstrapping – Matt Turck](https://mattturck.com/bootstrapping/) 
