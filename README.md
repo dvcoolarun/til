@@ -18,6 +18,7 @@
 ### March 10, 2024 
 - [Module Compiler Option in TypeScript](https://www.tsmean.com/articles/learn-typescript/typescript-module-compiler-option/) 
 - [Type Assertions | Total TypeScript](https://www.totaltypescript.com/concepts/type-assertions) 
+- ['as const' Annotations | Total TypeScript](https://www.totaltypescript.com/concepts/as-const) 
 ### March 9, 2024 
 - [Impostor Syndrome vs the Dunning-Kruger Effect | Raptori](https://raptori.dev/blog/impostor-syndrome-vs-the-dunning-kruger-effect) 
 - [Get Started With Typescript in 2019](https://robertcooper.me/post/get-started-with-typescript-in-2019) 
