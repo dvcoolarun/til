@@ -21,6 +21,7 @@
 - ['as const' Annotations | Total TypeScript](https://www.totaltypescript.com/concepts/as-const) 
 - [Type vs Interface: Which Should You Use? | Total TypeScript](https://www.totaltypescript.com/type-vs-interface-which-should-you-use) 
 - [Array<T> vs T[]: Which is better? | Total TypeScript](https://www.totaltypescript.com/array-types-in-typescript) 
+- [unknown vs any in TypeScript](https://dmitripavlutin.com/typescript-unknown-vs-any/) 
 ### March 9, 2024 
 - [Impostor Syndrome vs the Dunning-Kruger Effect | Raptori](https://raptori.dev/blog/impostor-syndrome-vs-the-dunning-kruger-effect) 
 - [Get Started With Typescript in 2019](https://robertcooper.me/post/get-started-with-typescript-in-2019) 
