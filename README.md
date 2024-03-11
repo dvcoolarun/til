@@ -19,6 +19,7 @@
 ### March 11, 2024 
 - [TypeScript Generics: What’s with the Angle Brackets <>? | by Karthick Ragavendran | JavaScript in Plain English](https://javascript.plainenglish.io/typescript-generics-whats-with-the-angle-brackets-4e242c567269) 
 - [Object Types | Total TypeScript](https://www.totaltypescript.com/concepts/object-types) 
+- [Record Type in TypeScript: A Quick Intro](https://dmitripavlutin.com/typescript-record/) 
 ### March 10, 2024 
 - [Module Compiler Option in TypeScript](https://www.tsmean.com/articles/learn-typescript/typescript-module-compiler-option/) 
 - [Type Assertions | Total TypeScript](https://www.totaltypescript.com/concepts/type-assertions) 
