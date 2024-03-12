@@ -20,6 +20,7 @@
 ### March 12, 2024 
 - [How to Iterate Over Object Keys in TypeScript | Total TypeScript](https://www.totaltypescript.com/iterate-over-object-keys-in-typescript) 
 - [Why Object.keys doesn’t and shouldn’t return (keyof T)[] | Vladimír Zdražil](https://vladimirzdrazil.com/posts/object-keys-keyof-t/) 
+- [TypeScript Generics for People Who Gave Up on Understanding Generics](https://ts.chibicode.com/generics/) 
 ### March 11, 2024 
 - [TypeScript Generics: What’s with the Angle Brackets <>? | by Karthick Ragavendran | JavaScript in Plain English](https://javascript.plainenglish.io/typescript-generics-whats-with-the-angle-brackets-4e242c567269) 
 - [Object Types | Total TypeScript](https://www.totaltypescript.com/concepts/object-types) 
