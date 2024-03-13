@@ -22,6 +22,7 @@
 - [Mapped Types | Total TypeScript](https://www.totaltypescript.com/concepts/mapped-type) 
 - [Type Helpers | Total TypeScript](https://www.totaltypescript.com/concepts/type-helpers) 
 - [Explained: Cannot redeclare block-scoped variable | Total TypeScript](https://www.totaltypescript.com/cannot-redeclare-block-scoped-variable) 
+- [Why You Can't Use Dot Notation On Types | Total TypeScript](https://www.totaltypescript.com/why-you-cant-use-dot-notation-on-types) 
 ### March 12, 2024 
 - [How to Iterate Over Object Keys in TypeScript | Total TypeScript](https://www.totaltypescript.com/iterate-over-object-keys-in-typescript) 
 - [Why Object.keys doesn’t and shouldn’t return (keyof T)[] | Vladimír Zdražil](https://vladimirzdrazil.com/posts/object-keys-keyof-t/) 
