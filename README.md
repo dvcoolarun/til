@@ -23,6 +23,7 @@
 - [Write for others but mostly for yourself — Jack Vanlightly](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself) 
 - [Care](https://johan.hal.se/wrote/2024/02/28/care/) 
 - [`object` vs `{}` in TypeScript — Type-Level TypeScript](https://type-level-typescript.com/articles/difference-between-object-types-in-typescript) 
+- [`{}` vs `object` vs `Object` in TypeScript.](https://jser.dev/typescript/2023/01/12/typescript-object-Object/) 
 ### March 13, 2024 
 - [Mapped Types | Total TypeScript](https://www.totaltypescript.com/concepts/mapped-type) 
 - [Type Helpers | Total TypeScript](https://www.totaltypescript.com/concepts/type-helpers) 
