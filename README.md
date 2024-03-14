@@ -25,6 +25,7 @@
 - [`object` vs `{}` in TypeScript — Type-Level TypeScript](https://type-level-typescript.com/articles/difference-between-object-types-in-typescript) 
 - [`{}` vs `object` vs `Object` in TypeScript.](https://jser.dev/typescript/2023/01/12/typescript-object-Object/) 
 - [void in JavaScript and TypeScript](https://fettblog.eu/void-in-javascript-and-typescript/) 
+- [What is the `declare` keyword in TypeScript? | Javascript Job](https://job.js.org/questions/typescript/ts-declare/) 
 ### March 13, 2024 
 - [Mapped Types | Total TypeScript](https://www.totaltypescript.com/concepts/mapped-type) 
 - [Type Helpers | Total TypeScript](https://www.totaltypescript.com/concepts/type-helpers) 
