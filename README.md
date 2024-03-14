@@ -18,6 +18,9 @@
 
 
 
+
+### March 14, 2024 
+- [Write for others but mostly for yourself — Jack Vanlightly](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself) 
 ### March 13, 2024 
 - [Mapped Types | Total TypeScript](https://www.totaltypescript.com/concepts/mapped-type) 
 - [Type Helpers | Total TypeScript](https://www.totaltypescript.com/concepts/type-helpers) 
