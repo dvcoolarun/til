@@ -22,6 +22,7 @@
 
 ### March 15, 2024 
 - [Distributivity in Typescript](https://jser.dev/typescript/2023/01/22/distributiveness-in-ts/) 
+- [Why and how to use `never`? | Javascript Job](https://job.js.org/questions/typescript/never-type/) 
 ### March 14, 2024 
 - [Write for others but mostly for yourself — Jack Vanlightly](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself) 
 - [Care](https://johan.hal.se/wrote/2024/02/28/care/) 
