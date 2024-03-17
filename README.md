@@ -24,6 +24,7 @@
 ### March 17, 2024 
 - [Inferring types in a conditional type | Learn TypeScript](https://learntypescript.dev/09/l2-conditional-infer) 
 - [Using `typeof` to infer a type | Learn TypeScript](https://learntypescript.dev/08/l4-typeof-infer) 
+- [Using a `typeof` type guard | Learn TypeScript](https://learntypescript.dev/07/l3-typeof-type-guard) 
 ### March 15, 2024 
 - [Distributivity in Typescript](https://jser.dev/typescript/2023/01/22/distributiveness-in-ts/) 
 - [Why and how to use `never`? | Javascript Job](https://job.js.org/questions/typescript/never-type/) 
