@@ -20,6 +20,9 @@
 
 
 
+
+### March 17, 2024 
+- [Inferring types in a conditional type | Learn TypeScript](https://learntypescript.dev/09/l2-conditional-infer) 
 ### March 15, 2024 
 - [Distributivity in Typescript](https://jser.dev/typescript/2023/01/22/distributiveness-in-ts/) 
 - [Why and how to use `never`? | Javascript Job](https://job.js.org/questions/typescript/never-type/) 
