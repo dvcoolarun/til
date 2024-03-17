@@ -26,6 +26,7 @@
 - [Using `typeof` to infer a type | Learn TypeScript](https://learntypescript.dev/08/l4-typeof-infer) 
 - [Using a `typeof` type guard | Learn TypeScript](https://learntypescript.dev/07/l3-typeof-type-guard) 
 - [Using type assertions | Learn TypeScript](https://learntypescript.dev/07/l1-type-assertions) 
+- [TypeScript: Documentation - Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html) 
 ### March 15, 2024 
 - [Distributivity in Typescript](https://jser.dev/typescript/2023/01/22/distributiveness-in-ts/) 
 - [Why and how to use `never`? | Javascript Job](https://job.js.org/questions/typescript/never-type/) 
