@@ -21,6 +21,9 @@
 
 
 
+
+### March 18, 2024 
+- [Accessibility · Web Dev Topics · Learn the Web](https://learntheweb.courses/topics/accessibility/) 
 ### March 17, 2024 
 - [Inferring types in a conditional type | Learn TypeScript](https://learntypescript.dev/09/l2-conditional-infer) 
 - [Using `typeof` to infer a type | Learn TypeScript](https://learntypescript.dev/08/l4-typeof-infer) 
