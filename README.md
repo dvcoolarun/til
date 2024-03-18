@@ -22,6 +22,9 @@
 
 
 
+
+### March 19, 2024 
+- [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the) 
 ### March 18, 2024 
 - [Accessibility · Web Dev Topics · Learn the Web](https://learntheweb.courses/topics/accessibility/) 
 ### March 17, 2024 
