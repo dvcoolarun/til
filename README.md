@@ -28,6 +28,7 @@
 - [Introduction to browser events](https://javascript.info/introduction-browser-events) 
 - [this in JavaScript and TypeScript](https://fettblog.eu/this-in-javascript-and-typescript/) 
 - [JQuery Load vs Ready - Justin Norton](https://www.jnorton.co.uk/jquery-load-vs-ready) 
+- [html - What is the order of precedence for CSS? - Stack Overflow](https://stackoverflow.com/questions/25105736/what-is-the-order-of-precedence-for-css) 
 ### March 18, 2024 
 - [Accessibility · Web Dev Topics · Learn the Web](https://learntheweb.courses/topics/accessibility/) 
 ### March 17, 2024 
