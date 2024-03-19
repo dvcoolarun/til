@@ -27,6 +27,7 @@
 - [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the) 
 - [Introduction to browser events](https://javascript.info/introduction-browser-events) 
 - [this in JavaScript and TypeScript](https://fettblog.eu/this-in-javascript-and-typescript/) 
+- [JQuery Load vs Ready - Justin Norton](https://www.jnorton.co.uk/jquery-load-vs-ready) 
 ### March 18, 2024 
 - [Accessibility · Web Dev Topics · Learn the Web](https://learntheweb.courses/topics/accessibility/) 
 ### March 17, 2024 
