@@ -23,6 +23,9 @@
 
 
 
+
+### March 20, 2024 
+- [Web-Dev-For-Beginners/1-getting-started-lessons/3-accessibility/README.md at main · microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/1-getting-started-lessons/3-accessibility/README.md) 
 ### March 19, 2024 
 - [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the) 
 - [Introduction to browser events](https://javascript.info/introduction-browser-events) 
