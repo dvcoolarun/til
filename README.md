@@ -24,6 +24,9 @@
 
 
 
+
+### March 21, 2024 
+- [Try to build types in TypeScript, not write them](https://jser.dev/typescript/2022/08/06/build-types-in-typescript/) 
 ### March 20, 2024 
 - [Web-Dev-For-Beginners/1-getting-started-lessons/3-accessibility/README.md at main · microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/1-getting-started-lessons/3-accessibility/README.md) 
 ### March 19, 2024 
