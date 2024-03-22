@@ -25,6 +25,9 @@
 
 
 
+
+### March 22, 2024 
+- [A guide to async/await in TypeScript - LogRocket Blog](https://blog.logrocket.com/async-await-typescript/#:~:text=async%2Fawait%20is%20essentially%20a,in%20an%20immediately%20resolved%20promise.) 
 ### March 21, 2024 
 - [Try to build types in TypeScript, not write them](https://jser.dev/typescript/2022/08/06/build-types-in-typescript/) 
 - [Typescript Prevents Bad Things... and Good Things | Kyle Shevlin](https://kyleshevlin.com/typescript-prevents-bad-things-and-good-things/) 
