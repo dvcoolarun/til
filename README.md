@@ -26,6 +26,9 @@
 
 
 
+
+### March 23, 2024 
+- [Kernel | Chaos Theory](https://www.kernelmag.io/4/chaos) 
 ### March 22, 2024 
 - [A guide to async/await in TypeScript - LogRocket Blog](https://blog.logrocket.com/async-await-typescript/#:~:text=async%2Fawait%20is%20essentially%20a,in%20an%20immediately%20resolved%20promise.) 
 ### March 21, 2024 
