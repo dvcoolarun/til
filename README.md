@@ -30,6 +30,7 @@
 
 ### March 24, 2024 
 - [Doing a Job - The Management Philosophy of Adm. Hyman G. Rickover](https://govleaders.org/rickover.htm) 
+- [Fire And Motion – Joel on Software](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/) 
 ### March 23, 2024 
 - [Kernel | Chaos Theory](https://www.kernelmag.io/4/chaos) 
 - [Pmarchive · Luck and the Entrepreneur: The four kinds of luck](https://pmarchive.com/luck_and_the_entrepreneur.html) 
