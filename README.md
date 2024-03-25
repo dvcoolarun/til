@@ -28,6 +28,9 @@
 
 
 
+
+### March 25, 2024 
+- [Ideas are just a multiplier of execution | Derek Sivers](https://sive.rs/multiply) 
 ### March 24, 2024 
 - [Doing a Job - The Management Philosophy of Adm. Hyman G. Rickover](https://govleaders.org/rickover.htm) 
 - [Fire And Motion – Joel on Software](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/) 
