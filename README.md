@@ -29,6 +29,9 @@
 
 
 
+
+### March 26, 2024 
+- [React types in TypeScript](https://jser.dev/2023-05-31-react-types-in-typescript/) 
 ### March 25, 2024 
 - [Ideas are just a multiplier of execution | Derek Sivers](https://sive.rs/multiply) 
 - [Tom Scott, and the formidable power of escalating streaks](https://simonwillison.net/2024/Jan/2/escalating-streaks/) 
