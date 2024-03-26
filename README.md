@@ -30,6 +30,9 @@
 
 
 
+
+### March 27, 2024 
+- [The Coach in the Operating Room | The New Yorker](https://www.newyorker.com/magazine/2011/10/03/personal-best) 
 ### March 26, 2024 
 - [React types in TypeScript](https://jser.dev/2023-05-31-react-types-in-typescript/) 
 - [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/) 
