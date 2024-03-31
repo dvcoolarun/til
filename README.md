@@ -35,6 +35,7 @@
 
 ### March 31, 2024 
 - [React `ComponentProps<T>` Type Helper | Total TypeScript](https://www.totaltypescript.com/concepts/react-componentprops-type-helper) 
+- [TypeScript and React](https://fettblog.eu/typescript-react/) 
 ### March 30, 2024 
 - [The Dilbert Blog: Career Advice](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html) 
 - [How to Start Google](https://www.paulgraham.com/google.html) 
