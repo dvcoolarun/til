@@ -34,6 +34,9 @@
 
 
 
+
+### April 2, 2024 
+- [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/) 
 ### April 1, 2024 
 - [Calmness is a superpower — Steph Ango](https://stephango.com/calmness) 
 ### March 31, 2024 
