@@ -35,6 +35,9 @@
 
 
 
+
+### April 4, 2024 
+- [Type inference in conditional types by ahejlsberg · Pull Request #21496 · microsoft/TypeScript](https://github.com/Microsoft/TypeScript/pull/21496) 
 ### April 2, 2024 
 - [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/) 
 - [Why you should always Cleanup Side Effects in React useEffect and How to Cleanup - Dillion's Blog](https://dillionmegida.com/p/why-you-should-cleanup-when-component-unmounts/#:~:text=What%20are%20side%20effects%20cleanups%20in%20React%20components,the%20food%20arrives%20at%20work.) 
