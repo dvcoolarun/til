@@ -40,6 +40,7 @@
 
 ### April 6, 2024 
 - [I feel like a fraud — and that’s a good thing. | by Christian Heilmann | Medium](https://chrisheilmann.medium.com/i-feel-like-a-fraud-and-thats-a-good-thing-cc1fa338b902) 
+- [Drive the Meeting - NextView Ventures](https://nextview.vc/blog/drive-the-meeting/) 
 ### April 5, 2024 
 - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering?utm_source=twitter&utm_campaign=asmartbear_twitter&utm_medium=social) 
 ### April 4, 2024 
