@@ -38,6 +38,9 @@
 
 
 
+
+### April 11, 2024 
+- [cdixon | The “thin edge of the wedge” strategy](https://cdixon.org/2010/12/26/the-thin-edge-of-the-wedge-strategy) 
 ### April 6, 2024 
 - [I feel like a fraud — and that’s a good thing. | by Christian Heilmann | Medium](https://chrisheilmann.medium.com/i-feel-like-a-fraud-and-thats-a-good-thing-cc1fa338b902) 
 - [Drive the Meeting - NextView Ventures](https://nextview.vc/blog/drive-the-meeting/) 
