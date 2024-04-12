@@ -42,6 +42,7 @@
 
 ### April 12, 2024 
 - [Be more lucky - by Przemek - pnote](https://newsletter.pnote.eu/p/be-more-lucky) 
+- [How to Create Luck](https://www.swyx.io/create-luck) 
 ### April 11, 2024 
 - [cdixon | The “thin edge of the wedge” strategy](https://cdixon.org/2010/12/26/the-thin-edge-of-the-wedge-strategy) 
 ### April 6, 2024 
