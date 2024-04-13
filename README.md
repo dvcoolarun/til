@@ -43,6 +43,7 @@
 
 ### April 13, 2024 
 - [nobody knows the future | defmacro](https://www.defmacro.org/2020/06/02/future.html) 
+- [Craftsman, executive— a tale of two modes | defmacro](https://www.defmacro.org/2019/11/25/craftsman-exec.html) 
 ### April 12, 2024 
 - [Be more lucky - by Przemek - pnote](https://newsletter.pnote.eu/p/be-more-lucky) 
 - [How to Create Luck](https://www.swyx.io/create-luck) 
