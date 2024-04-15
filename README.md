@@ -41,6 +41,9 @@
 
 
 
+
+### April 15, 2024 
+- [What makes a great technical blog | notes.eatonphil.com](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html) 
 ### April 13, 2024 
 - [nobody knows the future | defmacro](https://www.defmacro.org/2020/06/02/future.html) 
 - [Craftsman, executive— a tale of two modes | defmacro](https://www.defmacro.org/2019/11/25/craftsman-exec.html) 
