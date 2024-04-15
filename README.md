@@ -42,6 +42,9 @@
 
 
 
+
+### April 16, 2024 
+- [There's Something About Factorio](https://thefamouslastpull.com/theres-something-about-factorio/) 
 ### April 15, 2024 
 - [What makes a great technical blog | notes.eatonphil.com](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html) 
 - [Play Long-term Games With Long-term People - YouTube](https://www.youtube.com/watch?v=6h22SbxSon8) 
