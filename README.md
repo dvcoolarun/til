@@ -43,6 +43,9 @@
 
 
 
+
+### April 17, 2024 
+- [How to be Strategic. So you might have heard that the more… | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/how-to-be-strategic-f6630a44f86b) 
 ### April 16, 2024 
 - [There's Something About Factorio](https://thefamouslastpull.com/theres-something-about-factorio/) 
 - [The Observer Effect – Tobi Lütke](https://www.theobservereffect.org/tobi.html) 
