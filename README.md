@@ -44,6 +44,9 @@
 
 
 
+
+### April 18, 2024 
+- [How Starcraft can help your career. - Artur Piszek](https://piszek.com/2021/04/19/starcraft-career/) 
 ### April 17, 2024 
 - [How to be Strategic. So you might have heard that the more… | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/how-to-be-strategic-f6630a44f86b) 
 ### April 16, 2024 
