@@ -45,6 +45,9 @@
 
 
 
+
+### April 23, 2024 
+- [Just a short annotation of Sam Altman’s beautiful post. | by Vikas Goel | Feb, 2024 | Medium](https://medium.com/@vikaspgoel/just-a-short-annotation-of-sam-altmans-beautiful-post-69b33d0d71d5) 
 ### April 18, 2024 
 - [How Starcraft can help your career. - Artur Piszek](https://piszek.com/2021/04/19/starcraft-career/) 
 - [How Starcraft can help your career. - Artur Piszek](https://piszek.com/2021/04/19/starcraft-career/) 
