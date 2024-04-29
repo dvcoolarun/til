@@ -49,6 +49,7 @@
 
 ### April 29, 2024 
 - [Value is created by doing - Sam Altman](https://blog.samaltman.com/value-is-created-by-doing) 
+- [The Obstacle Is the Way — Turning Adversity Into Advantage](https://fs.blog/ryan-holiday-the-obstacle-is-the-way/) 
 ### April 23, 2024 
 - [Just a short annotation of Sam Altman’s beautiful post. | by Vikas Goel | Feb, 2024 | Medium](https://medium.com/@vikaspgoel/just-a-short-annotation-of-sam-altmans-beautiful-post-69b33d0d71d5) 
 - [The Looking Glass: The Origins of Leadership and Burnout](https://lg.substack.com/p/the-looking-glass-the-origins-of) 
