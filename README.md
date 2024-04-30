@@ -48,6 +48,9 @@
 
 
 
+
+### May 1, 2024 
+- [On Writing Software Well - Signal v. Noise](https://signalvnoise.com/svn3/on-writing-software-well/?ref=writesoftwarewell.com) 
 ### April 30, 2024 
 - [Getting things done (in small increments)](https://dubroy.com/blog/getting-things-done-in-small-increments/) 
 ### April 29, 2024 
