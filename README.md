@@ -47,6 +47,9 @@
 
 
 
+
+### April 30, 2024 
+- [Getting things done (in small increments)](https://dubroy.com/blog/getting-things-done-in-small-increments/) 
 ### April 29, 2024 
 - [Value is created by doing - Sam Altman](https://blog.samaltman.com/value-is-created-by-doing) 
 - [The Obstacle Is the Way — Turning Adversity Into Advantage](https://fs.blog/ryan-holiday-the-obstacle-is-the-way/) 
