@@ -49,6 +49,9 @@
 
 
 
+
+### May 2, 2024 
+- [What makes for a successful founder? - Piyush Surana](https://piyushsurana.com/what-makes-for-a-successful-founder/) 
 ### May 1, 2024 
 - [On Writing Software Well - Signal v. Noise](https://signalvnoise.com/svn3/on-writing-software-well/?ref=writesoftwarewell.com) 
 - [On Writing Software Well - Signal v. Noise](https://signalvnoise.com/svn3/on-writing-software-well/?ref=writesoftwarewell.com) 
