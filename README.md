@@ -50,6 +50,9 @@
 
 
 
+
+### May 3, 2024 
+- [What Makes A Senior Software Developer?](https://blog.professorbeekums.com/2016/12/what-makes-senior-software-developer.html) 
 ### May 2, 2024 
 - [What makes for a successful founder? - Piyush Surana](https://piyushsurana.com/what-makes-for-a-successful-founder/) 
 ### May 1, 2024 
