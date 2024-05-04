@@ -51,6 +51,9 @@
 
 
 
+
+### May 4, 2024 
+- [Why Life Can’t Be Simpler](https://fs.blog/why-life-cant-be-simpler/) 
 ### May 3, 2024 
 - [What Makes A Senior Software Developer?](https://blog.professorbeekums.com/2016/12/what-makes-senior-software-developer.html) 
 - [Best Story Wins · Collab Fund](https://collabfund.com/blog/story/) 
