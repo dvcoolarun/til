@@ -55,6 +55,7 @@
 
 ### May 7, 2024 
 - [Your 14-Day Free Trial Ain't Gonna Cut It](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/) 
+- [What are Type Predicates in TypeScript? | Basedash](https://www.basedash.com/blog/what-are-type-predicates-in-typescript) 
 ### May 4, 2024 
 - [Why Life Can’t Be Simpler](https://fs.blog/why-life-cant-be-simpler/) 
 ### May 3, 2024 
