@@ -57,6 +57,7 @@
 ### May 19, 2024 
 - [Creating a mapped type | Learn TypeScript](https://learntypescript.dev/08/l2-mapped-type) 
 - [Inferring types in a conditional type | Learn TypeScript](https://learntypescript.dev/09/l2-conditional-infer) 
+- [Using the non-null assertion operator | Learn TypeScript](https://learntypescript.dev/07/l2-non-null-assertion-operator) 
 ### May 7, 2024 
 - [Your 14-Day Free Trial Ain't Gonna Cut It](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/) 
 - [What are Type Predicates in TypeScript? | Basedash](https://www.basedash.com/blog/what-are-type-predicates-in-typescript) 
