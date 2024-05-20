@@ -57,6 +57,7 @@
 
 ### May 20, 2024 
 - [Using generic rest elements with tuple types | Learn TypeScript](https://learntypescript.dev/06/l8-generic-rest) 
+- [Using generic rest elements with tuple types | Learn TypeScript](https://learntypescript.dev/06/l8-generic-rest) 
 ### May 19, 2024 
 - [Creating a mapped type | Learn TypeScript](https://learntypescript.dev/08/l2-mapped-type) 
 - [Inferring types in a conditional type | Learn TypeScript](https://learntypescript.dev/09/l2-conditional-infer) 
