@@ -58,6 +58,7 @@
 
 ### June 16, 2024 
 - [TypeScript Function Overloading](https://dmitripavlutin.com/typescript-function-overloading/) 
+- [Crafting Functions](https://stopa.io/post/251) 
 ### May 20, 2024 
 - [Using generic rest elements with tuple types | Learn TypeScript](https://learntypescript.dev/06/l8-generic-rest) 
 - [Using generic rest elements with tuple types | Learn TypeScript](https://learntypescript.dev/06/l8-generic-rest) 
