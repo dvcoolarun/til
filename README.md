@@ -57,6 +57,9 @@
 
 
 
+
+### July 21, 2024 
+- [Kernel | Chaos Theory](https://www.kernelmag.io/4/chaos) 
 ### June 17, 2024 
 - [How to Use TypeScript with React Components](https://dmitripavlutin.com/typescript-react-components/) 
 ### June 16, 2024 
