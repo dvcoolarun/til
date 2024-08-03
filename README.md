@@ -58,6 +58,9 @@
 
 
 
+
+### August 3, 2024 
+- [My Simple Coding Interview Question | LinkedIn](https://www.linkedin.com/pulse/my-simple-coding-interview-question-wil-wen/) 
 ### July 21, 2024 
 - [Kernel | Chaos Theory](https://www.kernelmag.io/4/chaos) 
 - [247 - There Are No Problems, Only Choices](https://stoic.coffee/blog/247-there-are-no-problems-only-choices/) 
