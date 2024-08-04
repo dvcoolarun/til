@@ -59,6 +59,9 @@
 
 
 
+
+### August 4, 2024 
+- [Miyamoto Musashi: If You Know The Way Broadly You Will See It In Everything](https://nickbibeau.substack.com/p/miyamoto-musashi-if-you-know-the) 
 ### August 3, 2024 
 - [My Simple Coding Interview Question | LinkedIn](https://www.linkedin.com/pulse/my-simple-coding-interview-question-wil-wen/) 
 - [My favorite coding interview question - Chase Seibert Blog](https://chase-seibert.github.io/blog/2014/10/10/my-favorite-interview-question.html) 
