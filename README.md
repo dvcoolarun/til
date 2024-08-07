@@ -60,6 +60,9 @@
 
 
 
+
+### August 7, 2024 
+- [A story of Cloudflare cofounder Lee Holloway](https://tharum.com/blog/cloudflare-cofounder-lee-holloway/) 
 ### August 4, 2024 
 - [Miyamoto Musashi: If You Know The Way Broadly You Will See It In Everything](https://nickbibeau.substack.com/p/miyamoto-musashi-if-you-know-the) 
 ### August 3, 2024 
