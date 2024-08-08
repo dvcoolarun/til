@@ -61,6 +61,9 @@
 
 
 
+
+### August 8, 2024 
+- [beating yourself up is egotistic - @visakanv's blog](https://www.visakanv.com/blog/beating-yourself-up-is-egotistic/) 
 ### August 7, 2024 
 - [A story of Cloudflare cofounder Lee Holloway](https://tharum.com/blog/cloudflare-cofounder-lee-holloway/) 
 ### August 4, 2024 
