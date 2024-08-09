@@ -62,6 +62,9 @@
 
 
 
+
+### August 9, 2024 
+- [Guess CSS! HTML & CSS puzzler game](https://www.guess-css.app/) 
 ### August 8, 2024 
 - [beating yourself up is egotistic - @visakanv's blog](https://www.visakanv.com/blog/beating-yourself-up-is-egotistic/) 
 - [178 - If It's Endurable, Then Endure It](https://stoic.coffee/blog/178-if-its-endurable-then-endure-it/) 
