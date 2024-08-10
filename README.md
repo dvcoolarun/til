@@ -63,6 +63,9 @@
 
 
 
+
+### August 10, 2024 
+- ["Paying Your Dues"​ is a Motivational Myth | LinkedIn](https://www.linkedin.com/pulse/paying-your-dues-motivational-myth-brian-schuster/) 
 ### August 9, 2024 
 - [Guess CSS! HTML & CSS puzzler game](https://www.guess-css.app/) 
 ### August 8, 2024 
