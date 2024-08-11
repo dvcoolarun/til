@@ -64,6 +64,9 @@
 
 
 
+
+### August 11, 2024 
+- [0525 – strive to transition from ordeal to adventure - 1,000,000 words by @visakanv](https://visakanv.com/1000/0525-from-ordeal-to-adventure/) 
 ### August 10, 2024 
 - ["Paying Your Dues"​ is a Motivational Myth | LinkedIn](https://www.linkedin.com/pulse/paying-your-dues-motivational-myth-brian-schuster/) 
 ### August 9, 2024 
