@@ -65,6 +65,9 @@
 
 
 
+
+### August 12, 2024 
+- [What advantage is there for using the arrow syntax for a method in a constructor? | Front End Quiz Interview Questions with Solutions | GreatFrontEnd](https://www.greatfrontend.com/questions/quiz/what-advantage-is-there-for-using-the-arrow-syntax-for-a-method-in-a-constructor) 
 ### August 11, 2024 
 - [0525 – strive to transition from ordeal to adventure - 1,000,000 words by @visakanv](https://visakanv.com/1000/0525-from-ordeal-to-adventure/) 
 - [0525 – strive to transition from ordeal to adventure - 1,000,000 words by @visakanv](https://visakanv.com/1000/0525-from-ordeal-to-adventure/) 
