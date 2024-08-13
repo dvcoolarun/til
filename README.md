@@ -66,6 +66,9 @@
 
 
 
+
+### August 13, 2024 
+- [Master your Thoughts - Create your Reality - Josie Thomson Online](https://josiethomson.com/createyourreality/) 
 ### August 12, 2024 
 - [What advantage is there for using the arrow syntax for a method in a constructor? | Front End Quiz Interview Questions with Solutions | GreatFrontEnd](https://www.greatfrontend.com/questions/quiz/what-advantage-is-there-for-using-the-arrow-syntax-for-a-method-in-a-constructor) 
 ### August 11, 2024 
