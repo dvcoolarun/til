@@ -67,6 +67,9 @@
 
 
 
+
+### August 14, 2024 
+- [lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions) 
 ### August 13, 2024 
 - [Master your Thoughts - Create your Reality - Josie Thomson Online](https://josiethomson.com/createyourreality/) 
 ### August 12, 2024 
