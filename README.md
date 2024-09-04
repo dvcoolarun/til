@@ -73,6 +73,7 @@
 - [TBM 37/52: (Dis)incentives - by John Cutler](https://cutlefish.substack.com/p/tbm-3752-disincentives) 
 - [Growing your taste to build better products – Shankar is thinking](https://shankarganesh.blog/2024/08/29/growing-taste-to-build-better-products/) 
 - [Welcome to the Era of the Gritty Startup](https://every.to/napkin-math/welcome-to-the-era-of-the-gritty-startup) 
+- [A Look at React Hooks: useParams for Dynamic Routing](https://lo-victoria.com/a-look-at-react-hooks-useparams-for-dynamic-routing) 
 ### August 14, 2024 
 - [lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions) 
 ### August 13, 2024 
