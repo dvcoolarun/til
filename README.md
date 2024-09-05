@@ -69,6 +69,9 @@
 
 
 
+
+### September 5, 2024 
+- [A Better Goal Than Sinless Perfection](https://www.jameskerr.blog/posts/a-better-goal-than-sinless-perfection/) 
 ### September 4, 2024 
 - [TBM 37/52: (Dis)incentives - by John Cutler](https://cutlefish.substack.com/p/tbm-3752-disincentives) 
 - [Growing your taste to build better products – Shankar is thinking](https://shankarganesh.blog/2024/08/29/growing-taste-to-build-better-products/) 
